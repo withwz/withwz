@@ -1,25 +1,70 @@
-## Hi there 👋
-
-<!--
-**withwz/withwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-nice to meet you
-
+## 👋 Hi there, I'm 武昭
 
 <img src="https://github-readme-stats.vercel.app/api?username=withwz&show_icons=true&theme=monokai&count_private=true&show_icons=true&include_all_commits=true" />
 
+---
 
+### 🤖 AI & MCP Projects
+
+<a href="https://github.com/withwz/harmonyos-ui-inspector-mcp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=harmonyos-ui-inspector-mcp&theme=monokai" />
+</a>
+
+<a href="https://github.com/withwz/claude-manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=claude-manager&theme=monokai" />
+</a>
+
+<a href="https://github.com/withwz/claude-harmony-rn-skill">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=claude-harmony-rn-skill&theme=monokai" />
+</a>
+
+**[harmonyos-ui-inspector-mcp](https://github.com/withwz/harmonyos-ui-inspector-mcp)** - HarmonyOS UI Inspector MCP Server
+- 通过 HIDumper 获取鸿蒙设备的窗口列表、UI 组件树与截图信息
+- 基于 HDC 提供点击、滑动、返回、应用重启等交互能力
+- 使大模型能够感知并操作真实鸿蒙设备
+
+**[claude-manager](https://github.com/withwz/claude-manager)** - Claude 进程管理器
+- 管理 Claude Code 进程，解决多窗口运行导致的资源混乱
+- 自动检测重复进程和异常工作目录
+- 支持实时监控和批量清理
+
+**[claude-harmony-rn-skill](https://github.com/withwz/claude-harmony-rn-skill)** - Claude Code Harmony RN Skill
+- 为 Claude Code 提供鸿蒙 React Native 技术支持
+- 包含鸿蒙相关组件和 API 的技能封装
+
+---
+
+### 🎮 Automation & Tools
+
+<a href="https://github.com/withwz/douyin_upload">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=douyin_upload&theme=monokai" />
+</a>
+
+<a href="https://github.com/withwz/douyin_comment">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=douyin_comment&theme=monokai" />
+</a>
+
+<a href="https://github.com/withwz/autoTasker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=autoTasker&theme=monokai" />
+</a>
+
+---
+
+### 🌱 Currently Learning / Working On
+
+- 🔭 HarmonyOS 开发与 MCP 协议集成
+- 🤖 Claude Code 扩展与技能开发
+- 📱 React Native 鸿蒙适配
+
+---
+
+### 💬 Ask me about
+
+- 鸿蒙 (HarmonyOS) 开发
+- MCP (Model Context Protocol) 服务器开发
+- 自动化脚本与工具开发
+- Claude Code 自定义技能
+
+---
+
+nice to meet you 👋
