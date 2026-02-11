@@ -34,7 +34,7 @@
 
 ---
 
-### 🎮 Automation & Tools
+### 🎮 自动化工具
 
 <a href="https://github.com/withwz/douyin_upload">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=douyin_upload&theme=monokai" />
@@ -47,23 +47,6 @@
 <a href="https://github.com/withwz/autoTasker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=autoTasker&theme=monokai" />
 </a>
-
----
-
-### 🌱 Currently Learning / Working On
-
-- 🔭 HarmonyOS 开发与 MCP 协议集成
-- 🤖 Claude Code 扩展与技能开发
-- 📱 React Native 鸿蒙适配
-
----
-
-### 💬 Ask me about
-
-- 鸿蒙 (HarmonyOS) 开发
-- MCP (Model Context Protocol) 服务器开发
-- 自动化脚本与工具开发
-- Claude Code 自定义技能
 
 ---
 
