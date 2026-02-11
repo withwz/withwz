@@ -6,17 +6,9 @@
 
 ### 🤖 AI & MCP Projects
 
-<a href="https://github.com/withwz/harmonyos-ui-inspector-mcp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=harmonyos-ui-inspector-mcp&theme=monokai" />
-</a>
-
-<a href="https://github.com/withwz/claude-manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=claude-manager&theme=monokai" />
-</a>
-
-<a href="https://github.com/withwz/claude-harmony-rn-skill">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=claude-harmony-rn-skill&theme=monokai" />
-</a>
+[![harmonyos-ui-inspector-mcp](https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=harmonyos-ui-inspector-mcp&theme=monokai)](https://github.com/withwz/harmonyos-ui-inspector-mcp)
+[![claude-manager](https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=claude-manager&theme=monokai)](https://github.com/withwz/claude-manager)
+[![claude-harmony-rn-skill](https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=claude-harmony-rn-skill&theme=monokai)](https://github.com/withwz/claude-harmony-rn-skill)
 
 **[harmonyos-ui-inspector-mcp](https://github.com/withwz/harmonyos-ui-inspector-mcp)** - HarmonyOS UI Inspector MCP Server
 - 通过 HIDumper 获取鸿蒙设备的窗口列表、UI 组件树与截图信息
@@ -36,17 +28,9 @@
 
 ### 🎮 自动化工具
 
-<a href="https://github.com/withwz/douyin_upload">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=douyin_upload&theme=monokai" />
-</a>
-
-<a href="https://github.com/withwz/douyin_comment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=douyin_comment&theme=monokai" />
-</a>
-
-<a href="https://github.com/withwz/autoTasker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=autoTasker&theme=monokai" />
-</a>
+[![douyin_upload](https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=douyin_upload&theme=monokai)](https://github.com/withwz/douyin_upload)
+[![douyin_comment](https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=douyin_comment&theme=monokai)](https://github.com/withwz/douyin_comment)
+[![autoTasker](https://github-readme-stats.vercel.app/api/pin/?username=withwz&repo=autoTasker&theme=monokai)](https://github.com/withwz/autoTasker)
 
 ---
 
