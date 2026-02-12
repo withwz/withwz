@@ -51,9 +51,6 @@
 - **[github-contribution-heat-map](https://github.com/withwz/github-contribution-heat-map)**
   - GitHub 贡献热力图生成工具
 
-- **[git-date](https://github.com/withwz/git-date)**
-  - Git 日期工具
-
 ---
 
 ### 📊 统计
