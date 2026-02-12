@@ -10,46 +10,24 @@ nice to meet you
 
 | 项目 | 更新时间 | 描述 |
 |------|----------|------|
-| [harmonyos-cookbook](https://github.com/withwz/harmonyos-cookbook) | 2026-02-12 | 鸿蒙开发实战指南与最佳实践 |
-| [ali-oss-manager](https://github.com/withwz/ali-oss-manager) | 2026-02-12 | 阿里云 OSS 内容管理 Web 工具 |
-| [qq-zone-assistant](https://github.com/withwz/qq-zone-assistant) | 2026-02-12 | QQ 空间相册下载 Chrome 插件 |
-| [claude-manager](https://github.com/withwz/claude-manager) | 2026-02-12 | Claude Code 进程管理器 |
-| [harmonyos-ui-inspector-mcp](https://github.com/withwz/harmonyos-ui-inspector-mcp) | 2026-02-09 | HarmonyOS UI Inspector MCP Server |
-
+| [harmony-dev-cli](https://github.com/withwz/harmony-dev-cli) | 2026-02-12 | HarmonyOS Dev CLI 是一个命令行工具，让 Harmon... |
+| [harmonyos-cookbook](https://github.com/withwz/harmonyos-cookbook) | 2026-02-12 | 无描述... |
+| [withwz](https://github.com/withwz/withwz) | 2026-02-12 | 无描述... |
+| [ali-oss-manager](https://github.com/withwz/ali-oss-manager) | 2026-02-12 | 一个基于 Node.js + TypeScript 开发的阿里云 OS... |
+| [qq-zone-assistant](https://github.com/withwz/qq-zone-assistant) | 2026-02-12 | QQ 空间相册下载 chrome 插件... |
+| [claude-manager](https://github.com/withwz/claude-manager) | 2026-02-12 | 一个专门管理 Claude Code 进程的命令行工具，解决多个 VS... |
+| [Capture_bundle](https://github.com/withwz/Capture_bundle) | 2026-02-10 | 无描述... |
+| [harmonyos-ui-inspector-mcp](https://github.com/withwz/harmonyos-ui-inspector-mcp) | 2026-02-09 | 一个用于 查看与操控 HarmonyOS 设备 UI 的 MCP（Mo... |
+| [claude-harmony-rn-skill](https://github.com/withwz/claude-harmony-rn-skill) | 2026-02-03 | claude code 的 harmony rn 相关技术 skill... |
+| [tuyasmart](https://github.com/withwz/tuyasmart) | 2025-10-08 | 无描述... |
 ---
-
-### 🤖 AI & MCP
-
-- **[harmonyos-cookbook](https://github.com/withwz/harmonyos-cookbook)**
-  - TypeScript 编写的鸿蒙开发实战指南
-  - 包含大量实战案例和最佳实践
-
-- **[harmonyos-ui-inspector-mcp](https://github.com/withwz/harmonyos-ui-inspector-mcp)**
-  - HarmonyOS UI 检测 MCP 服务器
-  - 通过 HIDumper 获取窗口列表、UI 组件树与截图
-  - 基于 HDC 提供点击、滑动、返回、应用重启等交互能力
-  - 使大模型能够感知并操作真实鸿蒙设备
-
-- **[claude-harmony-rn-skill](https://github.com/withwz/claude-harmony-rn-skill)**
-  - Claude Code 的 Harmony RN 相关技术 Skill
-  - 为 Claude Code 提供鸿蒙 React Native 技术支持
-
-- **[claude-manager](https://github.com/withwz/claude-manager)**
-  - 专门管理 Claude Code 进程的命令行工具
-  - 解决多个 VS Code 窗口中运行多个 Claude 导致的资源混乱问题
-  - 自动检测重复进程和异常工作目录
-  - 支持实时监控和批量清理
-
----
-
-### 📊 统计
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withwz&layout=compact&theme=monokai" />
-
----
-
 ### 📮 联系方式
 
 欢迎关注我的项目，有问题欢迎提 Issue！
 
 <img src="https://komarev.com/ghpvc/?username=withwz&style=flat-square" />
+
+---
+
+📄 **文档更新时间**: 2026/02/12 17:18
+
