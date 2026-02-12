@@ -42,19 +42,6 @@ nice to meet you
 
 ---
 
-### 🛠️ 工具
-
-- **[ali-oss-manager](https://github.com/withwz/ali-oss-manager)**
-  - 基于 Node.js + TypeScript 的阿里云 OSS 内容管理 Web 工具
-
-- **[qq-zone-assistant](https://github.com/withwz/qq-zone-assistant)**
-  - QQ 空间相册下载 Chrome 插件
-
-- **[github-contribution-heat-map](https://github.com/withwz/github-contribution-heat-map)**
-  - GitHub 贡献热力图生成工具
-
----
-
 ### 📊 统计
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withwz&layout=compact&theme=monokai" />
