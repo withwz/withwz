@@ -1,7 +1,5 @@
 ## 👋 Hi there, I'm 武昭
 
-🚀 **全栈开发者 | 鸿蒙生态 | 自动化工具**
-
 <img src="https://github-readme-stats.vercel.app/api?username=withwz&show_icons=true&theme=monokai&count_private=true&show_icons=true&include_all_commits=true" />
 
 ---
@@ -42,34 +40,19 @@
 
 ---
 
-### 🛠️ 实用工具
+### 🛠️ 工具
 
-#### 云存储 & 文件管理
 - **[ali-oss-manager](https://github.com/withwz/ali-oss-manager)**
   - 基于 Node.js + TypeScript 的阿里云 OSS 内容管理 Web 工具
 
-#### 浏览器插件
 - **[qq-zone-assistant](https://github.com/withwz/qq-zone-assistant)**
   - QQ 空间相册下载 Chrome 插件
-
-#### 开发工具
-- **[claude-manager](https://github.com/withwz/claude-manager)**
-  - Claude Code 进程管理器
 
 - **[github-contribution-heat-map](https://github.com/withwz/github-contribution-heat-map)**
   - GitHub 贡献热力图生成工具
 
 - **[git-date](https://github.com/withwz/git-date)**
   - Git 日期工具
-
----
-
-### 💻 技术栈
-
-**前端：** JavaScript, TypeScript, Vue, React, Uni-app
-**后端：** Node.js, Python, Java, Go
-**移动端：** HarmonyOS
-**其他：** Shell, Lua
 
 ---
 
