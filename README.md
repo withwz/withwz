@@ -11,7 +11,7 @@ nice to meet you
 | 项目 | 更新时间 | 描述 |
 |------|----------|------|
 | [harmony-dev-cli](https://github.com/withwz/harmony-dev-cli) | 2026-02-12 | HarmonyOS Dev CLI 是一个命令行工具，让 Harmon... |
-| [harmonyos-cookbook](https://github.com/withwz/harmonyos-cookbook) | 2026-02-12 | 无描述... |
+| [harmonyos-cookbook](https://github.com/withwz/harmonyos-cookbook) | 2026-02-12 | 一个专注于 HarmonyOS (ArkTS) 开发学习的演示项目，包... |
 | [withwz](https://github.com/withwz/withwz) | 2026-02-12 | 无描述... |
 | [ali-oss-manager](https://github.com/withwz/ali-oss-manager) | 2026-02-12 | 一个基于 Node.js + TypeScript 开发的阿里云 OS... |
 | [qq-zone-assistant](https://github.com/withwz/qq-zone-assistant) | 2026-02-12 | QQ 空间相册下载 chrome 插件... |
@@ -21,13 +21,8 @@ nice to meet you
 | [claude-harmony-rn-skill](https://github.com/withwz/claude-harmony-rn-skill) | 2026-02-03 | claude code 的 harmony rn 相关技术 skill... |
 | [tuyasmart](https://github.com/withwz/tuyasmart) | 2025-10-08 | 无描述... |
 ---
-### 📮 联系方式
-
-欢迎关注我的项目，有问题欢迎提 Issue！
-
-<img src="https://komarev.com/ghpvc/?username=withwz&style=flat-square" />
 
 ---
 
-📄 **文档更新时间**: 2026/02/12 17:18
+📄 **文档更新时间**: 2026/02/12 17:36
 
