@@ -10,6 +10,7 @@
 |------|----------|------|
 | [harmonyos-cookbook](https://github.com/withwz/harmonyos-cookbook) | 2026-02-12 | 鸿蒙开发实战指南与最佳实践 |
 | [ali-oss-manager](https://github.com/withwz/ali-oss-manager) | 2026-02-12 | 阿里云 OSS 内容管理 Web 工具 |
+| [qq-zone-assistant](https://github.com/withwz/qq-zone-assistant) | 2026-02-12 | QQ 空间相册下载 Chrome 插件 |
 | [claude-manager](https://github.com/withwz/claude-manager) | 2026-02-12 | Claude Code 进程管理器 |
 | [harmonyos-ui-inspector-mcp](https://github.com/withwz/harmonyos-ui-inspector-mcp) | 2026-02-09 | HarmonyOS UI Inspector MCP Server |
 
@@ -43,6 +44,9 @@
 
 - **[ali-oss-manager](https://github.com/withwz/ali-oss-manager)**
   - 基于 Node.js + TypeScript 的阿里云 OSS 内容管理 Web 工具
+
+- **[qq-zone-assistant](https://github.com/withwz/qq-zone-assistant)**
+  - QQ 空间相册下载 Chrome 插件
 
 - **[github-contribution-heat-map](https://github.com/withwz/github-contribution-heat-map)**
   - GitHub 贡献热力图生成工具
