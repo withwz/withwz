@@ -13,11 +13,6 @@
 | [qq-zone-assistant](https://github.com/withwz/qq-zone-assistant) | 2026-02-12 | QQ 空间相册下载 Chrome 插件 |
 | [claude-manager](https://github.com/withwz/claude-manager) | 2026-02-12 | Claude Code 进程管理器 |
 | [harmonyos-ui-inspector-mcp](https://github.com/withwz/harmonyos-ui-inspector-mcp) | 2026-02-09 | HarmonyOS UI Inspector MCP Server |
-| [claude-harmony-rn-skill](https://github.com/withwz/claude-harmony-rn-skill) | 2026-02-03 | Claude Code Harmony RN Skill |
-| [tuyasmart](https://github.com/withwz/tuyasmart) | 2025-10-08 | 涂鸦智能家居项目 |
-| [thingpanelcontainer](https://github.com/withwz/thingpanelcontainer) | 2025-10-08 | 物联网面板容器 |
-| [react-native-drag-sort](https://github.com/withwz/react-native-drag-sort) | 2025-06-22 | React Native 拖拽排序组件 |
-| [git-date](https://github.com/withwz/git-date) | 2025-03-24 | Git 日期工具 |
 
 ---
 
@@ -42,19 +37,6 @@
   - 解决多个 VS Code 窗口中运行多个 Claude 导致的资源混乱问题
   - 自动检测重复进程和异常工作目录
   - 支持实时监控和批量清理
-
----
-
-### 🛠️ 工具
-
-- **[ali-oss-manager](https://github.com/withwz/ali-oss-manager)**
-  - 基于 Node.js + TypeScript 的阿里云 OSS 内容管理 Web 工具
-
-- **[qq-zone-assistant](https://github.com/withwz/qq-zone-assistant)**
-  - QQ 空间相册下载 Chrome 插件
-
-- **[github-contribution-heat-map](https://github.com/withwz/github-contribution-heat-map)**
-  - GitHub 贡献热力图生成工具
 
 ---
 
