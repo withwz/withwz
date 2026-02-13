@@ -15,7 +15,7 @@
 ### 🤖 AI & MCP
 
 **[harmonyos-cookbook](https://github.com/withwz/harmonyos-cookbook)**
-  - 一个专注于 HarmonyOS (ArkTS) 开发学习的演示项目，包含装饰器、布局组件、UI 组件和各种系统 Kit 的实际应用示例。
+  - 一个专注于 HarmonyOS (ArkTS) 开发学习的演示项目，包含装饰器、布局组件、UI 组件和各种系统 Kit 的实际应用示例。AI 全自动开发 - 从需求分析到代码编写，从构建部署到效果验证，全程 AI 驱动，无需人工干预。
 
 **[harmonyos-dev-skill](https://github.com/withwz/harmonyos-dev-skill)**
   - Claude Skill for HarmonyOS development - 协调 harmonyos-control 和 harmonyos-ui 两个 MCP 工具。
@@ -43,5 +43,5 @@
 
 ---
 
-📄 **文档更新时间**: 2026/02/13 18:02
+📄 **文档更新时间**: 2026/02/13 20:01
 
