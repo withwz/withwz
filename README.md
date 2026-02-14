@@ -4,6 +4,7 @@ nice to meet you. <img src="https://github-readme-stats.vercel.app/api?username=
 
 | 项目 | 更新时间 | 描述 |
 |------|----------|------|
+| [harmonyos-ui-inspector-mcp](https://github.com/withwz/harmonyos-ui-inspector-mcp) | 2026-02-14 | 一个用于 查看与操控 HarmonyOS 设备 UI 的 MCP（Model Context Pro... |
 | [withwz](https://github.com/withwz/withwz) | 2026-02-14 | 个人主页，内容为 openclaw 自动更新 |
 | [harmonyos-cookbook](https://github.com/withwz/harmonyos-cookbook) | 2026-02-14 | 一个专注于 HarmonyOS (ArkTS) 开发学习的演示项目，包含装饰器、布局组件、UI 组件... |
 | [harmonyos-dev-skill](https://github.com/withwz/harmonyos-dev-skill) | 2026-02-13 | Claude Skill for HarmonyOS development - 协调 harmon... |
@@ -11,7 +12,6 @@ nice to meet you. <img src="https://github-readme-stats.vercel.app/api?username=
 | [ali-oss-manager](https://github.com/withwz/ali-oss-manager) | 2026-02-12 | 一个基于 Node.js + TypeScript 开发的阿里云 OSS 内容管理 Web 工具。 |
 | [qq-zone-assistant](https://github.com/withwz/qq-zone-assistant) | 2026-02-12 | QQ 空间相册下载 chrome 插件 |
 | [claude-manager](https://github.com/withwz/claude-manager) | 2026-02-12 | 一个专门管理 Claude Code 进程的命令行工具，解决多个 VS Code 窗口中运行多个 C... |
-| [harmonyos-ui-inspector-mcp](https://github.com/withwz/harmonyos-ui-inspector-mcp) | 2026-02-09 | 一个用于 查看与操控 HarmonyOS 设备 UI 的 MCP（Model Context Pro... |
 | [claude-harmony-rn-skill](https://github.com/withwz/claude-harmony-rn-skill) | 2026-02-03 | claude code 的 harmony rn 相关技术 skill  |
 | [tuyasmart](https://github.com/withwz/tuyasmart) | 2025-10-08 | 无描述... |
 
@@ -46,4 +46,4 @@ nice to meet you. <img src="https://github-readme-stats.vercel.app/api?username=
 
 ---
 
-📄 **文档更新时间**: 2026/02/14 16:00
+📄 **文档更新时间**: 2026/02/14 18:00
