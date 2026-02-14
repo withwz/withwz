@@ -14,10 +14,6 @@ nice to meet you. <img src="https://github-readme-stats.vercel.app/api?username=
 | [harmonyos-ui-inspector-mcp](https://github.com/withwz/harmonyos-ui-inspector-mcp) | 2026-02-09 | 一个用于 查看与操控 HarmonyOS 设备 UI 的 MCP（Model Context Pro... |
 | [claude-harmony-rn-skill](https://github.com/withwz/claude-harmony-rn-skill) | 2026-02-03 | claude code 的 harmony rn 相关技术 skill  |
 | [tuyasmart](https://github.com/withwz/tuyasmart) | 2025-10-08 | 无描述... |
-| [thingpanelcontainer](https://github.com/withwz/thingpanelcontainer) | 2025-10-08 | 无描述... |
-| [douyin_comment](https://github.com/withwz/douyin_comment) | 2024-12-09 | 抖音自动评论 |
-| [autoTasker](https://github.com/withwz/autoTasker) | 2024-10-17 | 抖音快手点淘uc等极速版火山版褥羊毛自动签到 |
-| [douyin_upload](https://github.com/withwz/douyin_upload) | 2024-10-05 | 抖音自动发布助手 |
 
 ### 🤖 AI & MCP
 
@@ -50,4 +46,4 @@ nice to meet you. <img src="https://github-readme-stats.vercel.app/api?username=
 
 ---
 
-📄 **文档更新时间**: 2026/02/14 11:06
+📄 **文档更新时间**: 2026/02/14 11:29
