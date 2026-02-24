@@ -1,4 +1,5 @@
-nice to meet you. <img src="https://github-readme-stats.vercel.app/api?username=withwz&show_icons=true&theme=monokai&count_private=true&include_all_commits=true" />
+nice to meet you. 
+<img align="center" src="https://readme-stars.vercel.app/api?username=withwz&hide=contribs,issues&show_icons=true" />
 
 ### 🆕 最近更新
 
