@@ -1,5 +1,5 @@
 nice to meet you. 
-<img align="center" src="https://readme-stars.vercel.app/api?username=withwz&hide=contribs,issues&show_icons=true" />
+<p>&nbsp;<img src="https://readme-stars.vercel.app/api?username=withwz&show_icons=false" /></p>
 
 ### 🆕 最近更新
 
