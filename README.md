@@ -5,7 +5,6 @@ nice to meet you.
 
 | 项目 | 更新时间 | 描述 |
 |------|----------|------|
-| [withwz](https://github.com/withwz/withwz) | 2026-02-22 | 个人主页，内容为 openclaw 自动更新 |
 | [harmonyos-ui-inspector-mcp](https://github.com/withwz/harmonyos-ui-inspector-mcp) | 2026-02-14 | 一个用于 查看与操控 HarmonyOS 设备 UI 的 MCP（Model Context Pro... |
 | [harmonyos-cookbook](https://github.com/withwz/harmonyos-cookbook) | 2026-02-14 | 一个专注于 HarmonyOS (ArkTS) 开发学习的演示项目，包含装饰器、布局组件、UI 组件... |
 | [harmonyos-dev-skill](https://github.com/withwz/harmonyos-dev-skill) | 2026-02-13 | Claude Skill for HarmonyOS development - 协调 harmon... |
@@ -14,7 +13,6 @@ nice to meet you.
 | [qq-zone-assistant](https://github.com/withwz/qq-zone-assistant) | 2026-02-12 | QQ 空间相册下载 chrome 插件 |
 | [claude-manager](https://github.com/withwz/claude-manager) | 2026-02-12 | 一个专门管理 Claude Code 进程的命令行工具，解决多个 VS Code 窗口中运行多个 C... |
 | [claude-harmony-rn-skill](https://github.com/withwz/claude-harmony-rn-skill) | 2026-02-03 | claude code 的 harmony rn 相关技术 skill  |
-| [tuyasmart](https://github.com/withwz/tuyasmart) | 2025-10-08 | 无描述... |
 
 ### 🤖 AI & MCP
 
@@ -36,15 +34,3 @@ nice to meet you.
 **[claude-manager](https://github.com/withwz/claude-manager)**
   - 一个专门管理 Claude Code 进程的命令行工具，解决多个 VS Code 窗口中运行多个 Claude 导致的资源混乱问题。
 
-**[thingpanelcontainer](https://github.com/withwz/thingpanelcontainer)**
-  - thingpanelcontainer
-
-**[hbrain](https://github.com/withwz/hbrain)**
-  - 红包雨，Taro
-
----
-### 📮
-
----
-
-📄 **文档更新时间**: 2026/02/23 08:18
